@@ -1,0 +1,9 @@
+{
+  "name": "express-gateway-plugin-body-parser",
+  "version": "1.0.0",
+  "main": "manifest.js",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
