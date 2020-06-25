@@ -1,6 +1,6 @@
 const { PassThrough } = require("stream");
 const jsonParser = require("express").json();
-const urlEncodedParser = require("express").urlEncoded({ extended: true });
+const urlEncodedParser = require("express").urlencoded({ extended: true });
 
 module.exports = {
   name: 'body-parser',
